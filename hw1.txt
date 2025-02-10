@@ -9,4 +9,6 @@ After running the 100 queries on Duck Duck Go, I got the following average value
 Avg. Overlap (%) = 13.8
 Avg. Spearman Coefficient = -5.306
 
-Hence, one can clearly see that since the Spearman Coefficient is negative which means Duck Duck Go and Google use different algorithms to rank their results and their results are highly uncorrelated. Since, Google is the baseline for this assignment, Duck Duck Go performed poorly (worse) in comparison to Google. One can also see that the average overlap is only 13.8%.
+Hence, one can clearly see that since the Spearman Coefficient is negative which means Duck Duck Go and Google use different algorithms to rank their results and their results are highly uncorrelated.
+Since Google is the baseline for this assignment, Duck Duck Go performed poorly (worse) in comparison to Google.
+One can also see that the average overlap is only 13.8%.

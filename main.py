@@ -89,7 +89,6 @@ def main():
     searchEngineUrl = "https://www.duckduckgo.com/html/?q="
     googleFile = "Google_Result4.json"
     queryFile = "100QueriesSet4.txt"
-    # outputJson = "hw1.json"
     outputJson = "hw1.json"
     # task1 = Task1(searchEngineUrl, queryFile, outputJson)
     # task1.readQueries()
